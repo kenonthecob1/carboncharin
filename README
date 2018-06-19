@@ -1,0 +1,8 @@
+By Kenny Wang and Lukas Griffen
+Sept 24, 2017
+
+This is a very rough project to play with python for the 24 hour hackron hackathon.
+Inspired by how we were both in organic chemistry at the time and drawing line structures and naming them is very tedious.
+Supports carbon based line strucutres with halogen attachments and will give proper name, but formatted a little ugly.
+Uses turtle graphics.
+
